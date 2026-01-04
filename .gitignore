@@ -6,6 +6,9 @@ __pycache__/
 # Data dumps
 *.csv
 
-# Temporary outputs (keep final ones only)
-*.html
+# Temporary outputs
 *.pdf
+*.html
+
+# --- Exceptions (must be tracked) ---
+!docs/index.html
